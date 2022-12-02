@@ -1,0 +1,12 @@
+Ingredients:
+ - 1 ingrediente inicial
+ - 2 ingredientes adicionais
+ - 1 de mais alguma coisa
+ - 1 1/2 pra terminar
+
+Directions:
+ 1. Instrução um
+ 
+ 2. Segunda instrução.
+ 
+ 3. E a última para terminar.
